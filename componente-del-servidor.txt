@@ -1,0 +1,5 @@
+sistema operativo: aquel software, son los cimientos que presta la parte fisica del equipo en el que se esta trabajando, para usar la memoria, almacenamiento y terminales para que el trabajo que se realice dentro del pc , ademas es el encargado de que node js sea el puente para que funcione de la mejor manera.
+node. js: es el motor que hace que funcione javascript se lleve a cabo dentro de la terminal privada del computador en un ambiente seguro antes que se vuelva publico.
+aplicacion server.js: es el encargado de configurar el servidor, y a donde va la informacion que configura el programador y que informacion se va a ver.
+puerto: es donde se aloja la informacion tanto de entrada como de salida, es un canal en donde mediante numeros se observa la informacion por lo general el puerto 3000 es el que es asignado.
+logs: es una bitacora en donde se guardan los diferentes cambios, para poder observar en sus diferents versiones se han generado errores o en donde se puede mejorar.

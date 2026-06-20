@@ -1,0 +1,3 @@
+se ejecuta el mando principal del puerto me da un mensaje de  el servidor activo y funcionando senal de que esta desarrollando de la manera acertada.
+Servidor activo y funcionando.
+aparece  el resultado esperado que se muestra en la guia de actividades compartida.
